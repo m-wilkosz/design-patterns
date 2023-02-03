@@ -5,7 +5,7 @@
 Examples of design patterns implementations from software engineering course.
 
 ### Technologies
-Project is created with:
+The project was created with:
 - Java 11
 
 ### Setup
